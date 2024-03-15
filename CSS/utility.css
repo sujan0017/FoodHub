@@ -1,0 +1,30 @@
+
+:root {
+  --primary-color-300: #E0E3E1;
+  --primary-color-400: #082f1a;
+  --primary-color-500: #2D4739;
+  --primary-color-600: #101914;
+  --primary-red-300: #FAEBEB;
+  --primary-red-400: #e11c1c;
+  --accent-yellow-400: #FFD45C;
+  --black: #000000;
+  --white: #ffffff;
+
+  --fontWeight-extraLight : 200  ;
+  --fontWeight-light : 300  ;
+  --fontWeight-regular : 400  ;
+  --fontWeight-samiBold : 600  ;
+  --fontWeight-Bold : 800  ;
+
+  --fontSize-200: 0.64rem;
+  --fontSize-300: 0.8rem;
+  --fontSize-400: 1rem;
+  --fontSize-500: 1.25rem;
+  --fontSize-600: 1.563rem;
+  --fontSize-700: 2.441rem;
+  --fontSize-800: 3.815rem;
+
+  --primary-font: "Inter", sans-serif;
+  --secondary-font : "Jaldi", sans-serif;
+  --logo-font: "lalita One", sans-serif;
+}
